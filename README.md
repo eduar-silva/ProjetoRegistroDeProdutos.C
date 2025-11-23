@@ -1,0 +1,2 @@
+<h1 align="center">Registro de Produtos</h1>
+<p>Desenvolvimento de uma aplicação em linguagem C para simulação de um terminal de vendas. O sistema permite o cadastro sequencial de múltiplos produtos, realiza cálculos automáticos de subtotais e aplica uma lógica de descontos progressivos baseada no valor da compra. Ao final, o programa emite um relatório detalhado (nota fiscal) e o total geral a pagar.</p>
